@@ -1,0 +1,7 @@
+com\demo\modal\insVO.class
+com\demo\DAO\daoimp.class
+com\demo\DAO\DAO.class
+com\demo\service\insService.class
+com\demo\controller\controller.class
+com\demo\HibernateConfiguration.class
+com\demo\SpringBootHibernateApplication.class
